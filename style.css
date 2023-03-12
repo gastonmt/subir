@@ -1,0 +1,36 @@
+.contenedor{
+    height: 636px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor__caja{
+    margin: auto;
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border: solid;
+    
+}
+.contenedor__caja_color-azul{
+    background-color: blue;
+    margin-top: 20px;
+}
+.table{
+    border: solid red 2px;
+    margin: auto;
+   
+}
+.divpadre{
+    background-color: aqua;
+    gap: 4px;
+    display: flex;
+    justify-content: center;
+
+}
+.divhijo{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: 10px
+}
